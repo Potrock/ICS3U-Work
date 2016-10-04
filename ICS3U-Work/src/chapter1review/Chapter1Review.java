@@ -15,7 +15,7 @@ public class Chapter1Review {
 
 		Chapter 1
 
-		 */
+		 end*/
 		System.out.print("Here we are ");
 		System.out.println("(finally,\n");
 		System.out.print("at the end\nof\n");
@@ -101,6 +101,7 @@ public class Chapter1Review {
 	//}
 
 		/* Question 10 */
+		//See paper
 
 		/* Question 11 */
 		Scanner scanner = new Scanner(System.in);
